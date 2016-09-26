@@ -1,0 +1,10 @@
+<suite name="NewTpoursDemo Suite">
+  <test name="Batch Testing">
+    <classes> 
+	  <class name="day24.DatadrivenTesting2"/>
+	  <class name="day24.Links"/>
+      <class name="day24.Login"/>
+          
+    </classes>
+  </test> 
+</suite> 

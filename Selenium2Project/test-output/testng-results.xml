@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cloud Demo" duration-ms="376914" started-at="2016-09-24T15:56:19Z" finished-at="2016-09-24T16:02:36Z">
+    <groups>
+    </groups>
+    <test name="On Safari" duration-ms="269184" started-at="2016-09-24T15:56:19Z" finished-at="2016-09-24T16:00:48Z">
+      <class name="day30.CloudTesting">
+        <test-method status="PASS" signature="dropdownTesttesting(java.lang.String)[pri:0, instance:day30.CloudTesting@528786e7]" name="dropdownTesttesting" duration-ms="269064" started-at="2016-09-24T08:56:19Z" finished-at="2016-09-24T09:00:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTesttesting -->
+      </class> <!-- day30.CloudTesting -->
+    </test> <!-- On Safari -->
+    <test name="On Chrome" duration-ms="269421" started-at="2016-09-24T15:56:19Z" finished-at="2016-09-24T16:00:49Z">
+      <class name="day30.CloudTesting">
+        <test-method status="PASS" signature="dropdownTesttesting(java.lang.String)[pri:0, instance:day30.CloudTesting@735a5cd5]" name="dropdownTesttesting" duration-ms="269320" started-at="2016-09-24T08:56:19Z" finished-at="2016-09-24T09:00:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTesttesting -->
+      </class> <!-- day30.CloudTesting -->
+    </test> <!-- On Chrome -->
+    <test name="On Firefox" duration-ms="376914" started-at="2016-09-24T15:56:19Z" finished-at="2016-09-24T16:02:36Z">
+      <class name="day30.CloudTesting">
+        <test-method status="PASS" signature="dropdownTesttesting(java.lang.String)[pri:0, instance:day30.CloudTesting@7fa87069]" name="dropdownTesttesting" duration-ms="376808" started-at="2016-09-24T08:56:19Z" finished-at="2016-09-24T09:02:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTesttesting -->
+      </class> <!-- day30.CloudTesting -->
+    </test> <!-- On Firefox -->
+  </suite> <!-- Cloud Demo -->
+</testng-results>
